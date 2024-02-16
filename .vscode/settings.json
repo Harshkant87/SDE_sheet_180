@@ -21,6 +21,8 @@
         "regex": "cpp",
         "tuple": "cpp",
         "valarray": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
     }
 }
