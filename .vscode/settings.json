@@ -23,6 +23,7 @@
         "valarray": "cpp",
         "list": "cpp",
         "initializer_list": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "cmath": "cpp"
     }
 }
