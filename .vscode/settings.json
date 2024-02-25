@@ -24,6 +24,7 @@
         "list": "cpp",
         "initializer_list": "cpp",
         "utility": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "deque": "cpp"
     }
 }
